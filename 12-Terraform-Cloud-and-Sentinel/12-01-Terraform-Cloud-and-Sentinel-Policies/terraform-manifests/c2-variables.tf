@@ -10,7 +10,7 @@ variable "aws_region" {
 variable "bucket_name" {
   description = "Name of the S3 bucket. Must be Unique across AWS"
   type        = string
-  default = "mybucket-1061"
+  default = "mybucket-9061"
 }
 
 variable "tags" {
